@@ -10,7 +10,12 @@ TL;DR:
 	If you want to run a game (between AI or between people or using an IDE) 
 		- "Launcher.bat" on Windows
 		- "Launcher.sh" on OS X and Linux
-		
+
+
+Disclaimer
+----------
+
+Most of the code in this repo was obtained from the developers of the 2016 Orbis Challenge. My team created the AI in ./Bots/Rnd_AI, which was the winning submission among ~20 teams!
 
 Bots
 ----
