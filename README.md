@@ -15,7 +15,7 @@ TL;DR:
 Disclaimer
 ----------
 
-Most of the code in this repo was obtained from the developers of the 2016 Orbis Challenge. My team created the AI in ./Bots/Rnd_AI, which was the winning submission among ~20 teams!
+Most of the code in this repo was obtained from the developers of the 2016 Orbis Challenge. Our team (https://github.com/hkseo and myself) created the AI in ./Bots/RnD_AI, which was the winning submission among ~20 teams!
 
 Bots
 ----
