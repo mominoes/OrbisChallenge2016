@@ -1,0 +1,1 @@
+{"mapName":"open_simple","playerPaths":["Bots/RnD_AI/PlayerAI.py","Bots/greedIsGoodAI/PlayerAI.py"],"maxResponseTime":57,"turnLimit":158,"portNumber":4461,"serverTimeout":86400000,"playerLaunchTypes":["AI","AI"]}
